@@ -2,7 +2,7 @@
 
 ## 🧠 Overview
 
-Migration and indexing pipeline enabling functional documentation ingestion into Companion — an internal Copilot-style LLM at OMP.  
+Migration and indexing pipeline enabling functional documentation ingestion into Companion — an internal Copilot-style LLM.  
 Focused on SharePoint Online readiness, ShareGate processing, and validation handling across a fragmented legacy dataset.
 
 ## 👤 Role
